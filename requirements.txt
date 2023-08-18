@@ -1,0 +1,14 @@
+config
+futures
+requests
+pandas
+numpy
+six
+sklearn
+tqdm
+dateparser
+ta
+matplotlib
+autobahn
+twisted
+python-binance
